@@ -1,0 +1,24 @@
+/*poniendo cosas bonitas*/
+
+h1{
+    color:rgb(204, 97, 177);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*selector de clase uwu*/
+
+.ELPOKESELACOME{
+    color:rgb(10, 202, 236);
+    text-align: center;
+}
+
+/*color del fonden uwu*/
+body{
+    background-color: rgb(221, 224, 10);
+}
+/*poner foto?*/
+
+body{
+    background-image: url="aaa.jpg";
+}

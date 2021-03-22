@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!----Seccion de configuracion-->
+        <title>Ejemplo de html</title> 
+            <meta charset="utf-8">
+    </head>
+    <body>
+        <!-- Seccion con el contenido web visible al usuario-->
+        <!-- titulos-->
+        <h1>Hola Mundo</h1>
+        <h2>Hola Mundo</h2>
+        <h3>Hola Mundo</h3>
+        <h4>Hola Mundo</h4>
+        <h5>Hola Mundo</h5>
+        <h6>Hola Mundo</h6>
+
+        <!-- Insertar foto-->
+        <!-- <> llaves-->
+        <img src="img/vikingo.jpg" width="400px" height="400px">
+        <br><br>
+
+        <!-- Insertar vinculos-->
+        <a href="https://www.duoc.cl/" target="_blank"> Ir a Duoc</a>
+
+        <!-- Insertar foto como vinculo-->
+        <a href="https://www.google.cl/%22%3E<img src="img/vikingo.jpg" height="400px"></a>
+
+
+
+
+
+    <body>
+
+
+
+
+</html>
